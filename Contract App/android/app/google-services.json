@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858324750702",
+    "project_id": "amina-project-6809b",
+    "storage_bucket": "amina-project-6809b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858324750702:android:d3ad314d8ae853d91eb17f",
+        "android_client_info": {
+          "package_name": "com.example.amina_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ga3ih19A0wenNLudhczQBfOWedqe6hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
